@@ -1,8 +1,0 @@
-{
-    "name": "my-personal-project",
-    "version": "1.0.0",
-    "description": "This will load my personal html site",
-    "dependencies": {
-      "harp": "*"
-    }
-  }
